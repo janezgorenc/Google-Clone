@@ -1,0 +1,125 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    min-height: 100%;
+    position: relative;
+}
+
+.header {
+    width: 100%;
+    height: 70px;
+    /*border: 2px solid black;*/
+}
+
+.hcontent {
+    display: inline-block;
+    float: right;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+h3 {
+    font-weight: normal;
+    font-family: Arial;
+}
+
+#app {
+    height: 30px;
+    margin-top: 12px;
+}
+
+#bell {
+    height: 30px;
+    margin-top: 10px;
+}
+
+#plus {
+    height: 40px;
+    margin-top: 10px;
+}
+
+#selfie {
+    height: 50px;
+    margin-top: 6px;
+}
+
+.middle {
+    width: 680px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#world-cup-google {
+   /* margin-left: 25%;*/
+    margin-top: 5%;
+}
+
+#buttons {
+    width: 500px;
+    margin: 10px auto 0 auto;
+}
+
+button {
+    width: 150px;
+    height: 40px;
+    font-size: 100%;
+}
+
+#search {
+    margin-right: 15px;
+    margin-left: 100px;
+}
+
+#lucky {
+    margin-left: 15px;
+    margin-right: auto;
+}
+
+#search-box {
+    margin-left: 60px;
+    width: 550px;
+    height: 30px;
+    
+}
+
+.submit {
+    display: inline-block;
+}
+
+#search {
+    float: left;
+}
+
+#luck {
+    float: right;
+    margin-left: 40%;
+}
+
+.footer {
+    width: 100%;
+    height: 70px;
+    background-color: #efecde;
+    bottom: 0;
+    position: absolute;
+    <!--border: 2px solid black;-->
+    }
+
+.text-footer {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.levo {
+    display: inline-block;
+    float: left;
+}
+
+.desno {
+    display: inline-block;
+    float: right;
+}
+
